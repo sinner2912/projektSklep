@@ -1,9 +1,18 @@
-<!DOCKTYPE html>
-<html lang="en-US">
-    <head>
+header {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
 
-    </head>
-    <body>
-        test
-    </body>
-</html>
+#logo{
+    background-color: red;
+    display: list-item;
+}
+
+nav{
+    height: 40px;
+    width: 50px;
+    background-color: blueviolet;
+    display: block;
+}
