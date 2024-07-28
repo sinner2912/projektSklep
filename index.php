@@ -4,16 +4,12 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <header>
-            <div id="logo">LOGO</div>
-            <nav>
-                <div>1</div>
-                <div>2</div>
-                <div>3</div>
-                <div>4</div>
-                <div>Login</div>
-            </nav>
-        </header>
+        <nav>
+            <a>logo</a>
+            <a>1</a>
+            <a>2</a>
+            <a>3</a>
+        </nav>
         
         <main>
         </main>
